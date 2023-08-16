@@ -1,0 +1,181 @@
+
+hongkuang.png
+size: 2760,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: true
+  xy: 592, 6
+  size: 365, 291
+  orig: 960, 480
+  offset: 0, 0
+  index: -1
+00001
+  rotate: true
+  xy: 2352, 439
+  size: 450, 178
+  orig: 960, 480
+  offset: 3, 0
+  index: -1
+00002
+  rotate: true
+  xy: 326, 367
+  size: 522, 182
+  orig: 960, 480
+  offset: 51, 0
+  index: -1
+00003
+  rotate: true
+  xy: 510, 373
+  size: 516, 182
+  orig: 960, 480
+  offset: 155, 0
+  index: -1
+00004
+  rotate: true
+  xy: 164, 364
+  size: 525, 160
+  orig: 960, 480
+  offset: 253, 0
+  index: -1
+00005
+  rotate: true
+  xy: 1517, 391
+  size: 498, 154
+  orig: 960, 480
+  offset: 342, 0
+  index: -1
+00006
+  rotate: true
+  xy: 1026, 380
+  size: 509, 165
+  orig: 960, 480
+  offset: 451, 0
+  index: -1
+00007
+  rotate: true
+  xy: 2532, 449
+  size: 440, 224
+  orig: 960, 480
+  offset: 520, 0
+  index: -1
+00008
+  rotate: false
+  xy: 1156, 36
+  size: 290, 342
+  orig: 960, 480
+  offset: 670, 0
+  index: -1
+00009
+  rotate: false
+  xy: 1701, 2
+  size: 242, 405
+  orig: 960, 480
+  offset: 718, 0
+  index: -1
+00010
+  rotate: false
+  xy: 1917, 409
+  size: 237, 480
+  orig: 960, 480
+  offset: 723, 0
+  index: -1
+00011
+  rotate: false
+  xy: 1448, 8
+  size: 251, 378
+  orig: 960, 480
+  offset: 709, 102
+  index: -1
+00012
+  rotate: true
+  xy: 1945, 20
+  size: 387, 296
+  orig: 960, 480
+  offset: 573, 184
+  index: -1
+00013
+  rotate: true
+  xy: 2156, 417
+  size: 472, 194
+  orig: 960, 480
+  offset: 488, 286
+  index: -1
+00014
+  rotate: true
+  xy: 856, 376
+  size: 513, 168
+  orig: 960, 480
+  offset: 408, 312
+  index: -1
+00015
+  rotate: true
+  xy: 694, 374
+  size: 515, 160
+  orig: 960, 480
+  offset: 296, 320
+  index: -1
+00016
+  rotate: true
+  xy: 2, 328
+  size: 561, 160
+  orig: 960, 480
+  offset: 157, 320
+  index: -1
+00017
+  rotate: true
+  xy: 1193, 385
+  size: 504, 152
+  orig: 960, 480
+  offset: 107, 328
+  index: -1
+00018
+  rotate: true
+  xy: 1347, 388
+  size: 501, 168
+  orig: 960, 480
+  offset: 0, 312
+  index: -1
+00019
+  rotate: true
+  xy: 2243, 4
+  size: 411, 216
+  orig: 960, 480
+  offset: 0, 264
+  index: -1
+00020
+  rotate: true
+  xy: 2, 27
+  size: 299, 330
+  orig: 960, 480
+  offset: 0, 150
+  index: -1
+00021
+  rotate: false
+  xy: 2461, 7
+  size: 237, 430
+  orig: 960, 480
+  offset: 0, 50
+  index: -1
+00022
+  rotate: false
+  xy: 1673, 409
+  size: 242, 480
+  orig: 960, 480
+  offset: 0, 0
+  index: -1
+00023
+  rotate: false
+  xy: 334, 2
+  size: 256, 363
+  orig: 960, 480
+  offset: 0, 0
+  index: -1
+00024
+  rotate: true
+  xy: 885, 12
+  size: 362, 269
+  orig: 960, 480
+  offset: 0, 0
+  index: -1
