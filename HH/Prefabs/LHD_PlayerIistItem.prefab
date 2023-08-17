@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 5680180645587472527}
   m_Layer: 24
   m_Name: LevelText
-  m_TagString: Untagged
+  m_TagString: UINode
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -512,7 +512,7 @@ GameObject:
   - component: {fileID: 3890048910719227191}
   - component: {fileID: 3890048910719227190}
   m_Layer: 24
-  m_Name: PlayerIistItem
+  m_Name: LHD_PlayerIistItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -748,7 +748,7 @@ GameObject:
   - component: {fileID: 3890048911760449896}
   m_Layer: 24
   m_Name: LevelNode
-  m_TagString: Untagged
+  m_TagString: UINode
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1022,7 +1022,7 @@ GameObject:
   - component: {fileID: 5811967169325105887}
   m_Layer: 24
   m_Name: Gold
-  m_TagString: Untagged
+  m_TagString: UINode
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1381,7 +1381,7 @@ GameObject:
   - component: {fileID: 6718539792940724161}
   m_Layer: 24
   m_Name: BetText
-  m_TagString: Untagged
+  m_TagString: UINode
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1591,7 +1591,7 @@ GameObject:
   - component: {fileID: 3800745769034026671}
   m_Layer: 24
   m_Name: Name
-  m_TagString: Untagged
+  m_TagString: UINode
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1917,7 +1917,7 @@ GameObject:
   - component: {fileID: 1613321321537902550}
   m_Layer: 24
   m_Name: WinText
-  m_TagString: Untagged
+  m_TagString: UINode
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

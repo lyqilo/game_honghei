@@ -145,7 +145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 867377562826322028}
   m_Layer: 0
-  m_Name: ZST_Item
+  m_Name: LHD_ZST_Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

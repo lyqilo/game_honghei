@@ -145,7 +145,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5926487317877860662}
   m_Layer: 24
-  m_Name: LuDan_Item
+  m_Name: LHD_LuDan_Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

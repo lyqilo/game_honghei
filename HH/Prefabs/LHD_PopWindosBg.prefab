@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6509215965387474955}
   m_Layer: 0
   m_Name: CloseButton
-  m_TagString: Untagged
+  m_TagString: UINode
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 22662780097724283}
   - component: {fileID: 2176543682467266171}
   m_Layer: 0
-  m_Name: PopWindosBg
+  m_Name: LHD_PopWindosBg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

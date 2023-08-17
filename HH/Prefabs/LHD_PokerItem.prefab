@@ -2458,7 +2458,7 @@ GameObject:
   - component: {fileID: 5895245950608477085}
   - component: {fileID: 6250294420603347493}
   m_Layer: 24
-  m_Name: PokerItem
+  m_Name: LHD_PokerItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
