@@ -270,7 +270,7 @@ GameObject:
   - component: {fileID: 2266143846006351193}
   m_Layer: 24
   m_Name: Icon
-  m_TagString: Untagged
+  m_TagString: UINode
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -512,7 +512,7 @@ GameObject:
   - component: {fileID: 3890048910719227191}
   - component: {fileID: 3890048910719227190}
   m_Layer: 24
-  m_Name: LHD_PlayerIistItem
+  m_Name: HH_PlayerIistItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

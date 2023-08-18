@@ -87,7 +87,7 @@ GameObject:
   - component: {fileID: 7521294470078827151}
   - component: {fileID: 7521294470078827148}
   m_Layer: 24
-  m_Name: LHD_PopWindosBg2
+  m_Name: HH_PopWindosBg2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
