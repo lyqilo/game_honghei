@@ -49,7 +49,7 @@ GameObject:
   - component: {fileID: 1753865853047237819}
   - component: {fileID: 1532160828769298244}
   m_Layer: 24
-  m_Name: hei
+  m_Name: black
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -124,7 +124,7 @@ GameObject:
   - component: {fileID: 2248795455231063150}
   - component: {fileID: 3875821326481387588}
   m_Layer: 24
-  m_Name: hong
+  m_Name: red
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

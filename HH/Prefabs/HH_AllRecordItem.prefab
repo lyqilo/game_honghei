@@ -49,7 +49,7 @@ GameObject:
   - component: {fileID: 1406889690875322520}
   - component: {fileID: 2203361021221333863}
   m_Layer: 24
-  m_Name: hei
+  m_Name: black
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -71,7 +71,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0.6}
   m_SizeDelta: {x: 22, y: 23}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1406889690875322520
@@ -124,7 +124,7 @@ GameObject:
   - component: {fileID: 1505871911829534797}
   - component: {fileID: 4474629682479201383}
   m_Layer: 24
-  m_Name: hong
+  m_Name: red
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
