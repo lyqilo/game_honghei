@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
   m_Name: heguan_006b_Atlas
   m_EditorClassIdentifier: 
-  atlasFile: {fileID: 4900000, guid: 65393232446f77b488a8dcd433141755, type: 3}
+  atlasFile: {fileID: 4900000, guid: 063d8bf4d368f584c96e6e681b8d8794, type: 3}
   materials:
-  - {fileID: 2100000, guid: dbf90a32317564644b376860f8c54fb2, type: 2}
+  - {fileID: 2100000, guid: d48ff78256caf4f4d822e4c01bcd7351, type: 2}

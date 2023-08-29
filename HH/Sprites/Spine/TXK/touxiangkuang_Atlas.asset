@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
   m_Name: touxiangkuang_Atlas
   m_EditorClassIdentifier: 
-  atlasFile: {fileID: 4900000, guid: ad85418020630a34fb1273de8a283bce, type: 3}
+  atlasFile: {fileID: 4900000, guid: 2c86b87a64102ef439401eced8828e40, type: 3}
   materials:
-  - {fileID: 2100000, guid: f56dcbcf037c2bf4c8a639586411f767, type: 2}
+  - {fileID: 2100000, guid: 7d9d5fd859f937943a725664e7b2c132, type: 2}

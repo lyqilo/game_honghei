@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
   m_Name: zhuangtai_Atlas
   m_EditorClassIdentifier: 
-  atlasFile: {fileID: 4900000, guid: a7514c13aaeec8047809af5ebdc896bc, type: 3}
+  atlasFile: {fileID: 4900000, guid: 679427ecb846bda46b135ac18b285514, type: 3}
   materials:
-  - {fileID: 2100000, guid: 69b3c6da77bb8bc40a6ffbb815c65306, type: 2}
+  - {fileID: 2100000, guid: 543ac5351c697b24c920bd859150b133, type: 2}

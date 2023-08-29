@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: heguan_006b_SkeletonData
   m_EditorClassIdentifier: 
   atlasAssets:
-  - {fileID: 11400000, guid: 212ba1209e4863840833deba9b3f2ee9, type: 2}
+  - {fileID: 11400000, guid: 90dacf12dbbd794408c3d405ab7d483a, type: 2}
   scale: 0.01
-  skeletonJSON: {fileID: 4900000, guid: 6bb9e31b06962344c82817ba0e65f724, type: 3}
+  skeletonJSON: {fileID: 4900000, guid: ae16830b89b542a40bd5941113ecad22, type: 3}
   isUpgradingBlendModeMaterials: 0
   blendModeMaterials:
     requiresBlendModeMaterials: 0

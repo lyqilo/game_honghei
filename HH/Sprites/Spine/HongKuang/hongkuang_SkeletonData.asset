@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: hongkuang_SkeletonData
   m_EditorClassIdentifier: 
   atlasAssets:
-  - {fileID: 11400000, guid: 4c07fa08ecd5a1f4eab77ad129bc79ed, type: 2}
+  - {fileID: 11400000, guid: 6ae92a4aa0e590d4fbdd179d3d0f5a97, type: 2}
   scale: 0.01
-  skeletonJSON: {fileID: 4900000, guid: 4b0fd1f5cd761ba4caa677bdea2ad89b, type: 3}
+  skeletonJSON: {fileID: 4900000, guid: 85c1c097170194a47bf10aa261a1a151, type: 3}
   isUpgradingBlendModeMaterials: 0
   blendModeMaterials:
     requiresBlendModeMaterials: 0
