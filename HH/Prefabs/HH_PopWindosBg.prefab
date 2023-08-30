@@ -208,6 +208,7 @@ GameObject:
   - component: {fileID: 3967566031801464754}
   - component: {fileID: 7650207799286317932}
   - component: {fileID: 3793632911965504265}
+  - component: {fileID: 5471658269847444755}
   m_Layer: 0
   m_Name: Image
   m_TagString: Untagged
@@ -272,3 +273,17 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &5471658269847444755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7294846084603831601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b28f7e33d1e3e0408d7ff2c8a92a650, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  translationName: 
+  FallbackSprite: {fileID: 21300000, guid: 25f7758158705934a952fa5c1705a385, type: 3}

@@ -773,7 +773,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 82133cf48e6d83d4699f675078a9e44e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bc636a9324697ef4e89fa1f57fc78a25, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -795,8 +795,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b28f7e33d1e3e0408d7ff2c8a92a650, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 
-  FallbackSprite: {fileID: 21300000, guid: 82133cf48e6d83d4699f675078a9e44e, type: 3}
+  translationName: 370048
+  FallbackSprite: {fileID: 21300000, guid: bc636a9324697ef4e89fa1f57fc78a25, type: 3}
 --- !u!1 &5162224486105598199
 GameObject:
   m_ObjectHideFlags: 0
@@ -1013,7 +1013,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: afdaf52db6f933c45b93736fe5a28c83, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7e9e577116b52c74296bc2ee5b17851a, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1035,8 +1035,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b28f7e33d1e3e0408d7ff2c8a92a650, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 
-  FallbackSprite: {fileID: 21300000, guid: afdaf52db6f933c45b93736fe5a28c83, type: 3}
+  translationName: 370049
+  FallbackSprite: {fileID: 21300000, guid: 7e9e577116b52c74296bc2ee5b17851a, type: 3}
 --- !u!1 &6016134436680546487
 GameObject:
   m_ObjectHideFlags: 0
