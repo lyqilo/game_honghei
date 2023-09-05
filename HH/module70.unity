@@ -2103,7 +2103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 700018
+  translationName: 370018
   FallbackText: "\u8FD120\u5C40\u80DC\u8D1F"
 --- !u!114 &105366338
 MonoBehaviour:
@@ -12501,7 +12501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 700007
+  translationName: 370007
   FallbackText: "\u666E\u901A\u7EED\u6295\u6309\u94AE"
 --- !u!114 &552607724
 MonoBehaviour:
@@ -25316,7 +25316,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 700008
+  translationName: 370008
   FallbackText: "\u9AD8\u7EA7\u7EED\u6295\u6309\u94AE"
 --- !u!114 &1074806177
 MonoBehaviour:
@@ -29390,7 +29390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 700006
+  translationName: 370006
   FallbackText: "\u7EED\u6295\u6309\u94AE\u8BBE\u7F6E"
 --- !u!114 &1241263512
 MonoBehaviour:
@@ -30147,7 +30147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 700003
+  translationName: 370003
   FallbackText: "\u724C\u8DEF"
 --- !u!114 &1272038068
 MonoBehaviour:
@@ -33364,7 +33364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 700010
+  translationName: 370010
   FallbackText: "\u4E0B\u6CE8\u5012\u8BA1\u65F6:"
 --- !u!1 &1427329577
 GameObject:
@@ -33741,7 +33741,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 700005
+  translationName: 370005
   FallbackText: "\u4E0B\u6CE8\u6309\u94AE\u8BBE\u7F6E\uFF0C\u8BF7\u9009\u62E95\u4E2A\u4E0D\u540C\u7684\u4E0B\u6CE8\u6309\u94AE"
 --- !u!114 &1443862890
 MonoBehaviour:
@@ -36165,7 +36165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 700004
+  translationName: 370004
   FallbackText: "\u8D70\u52BF\u56FE"
 --- !u!114 &1556997332
 MonoBehaviour:
@@ -46476,7 +46476,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1074806175}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
@@ -46495,7 +46495,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 700009
+  translationName: 370009
   FallbackText: "\uFF08\u53EF\u81EA\u5B9A\u4E49\u7EED\u6295\u5C40\u6570\uFF09"
 --- !u!114 &2048800394
 MonoBehaviour:
@@ -49577,11 +49577,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: 82133cf48e6d83d4699f675078a9e44e,
         type: 3}
-    - target: {fileID: 3890048910506035918, guid: 0ca7688cf8a0f974caf844e3cd9ab76d,
-        type: 3}
-      propertyPath: translationName
-      value: 700002
-      objectReference: {fileID: 0}
     - target: {fileID: 3890048910719227188, guid: 0ca7688cf8a0f974caf844e3cd9ab76d,
         type: 3}
       propertyPath: m_Name
