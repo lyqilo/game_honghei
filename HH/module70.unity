@@ -1201,7 +1201,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 35
+  m_fontSize: 28.7
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -8649,7 +8649,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 35
+  m_fontSize: 28.7
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -28166,7 +28166,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 35
+  m_fontSize: 28.7
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -32099,13 +32099,16 @@ PrefabInstance:
       objectReference: {fileID: 11400000, guid: 9c4f0ce5e39673a43a796a9d03001aca, type: 2}
     - target: {fileID: 6959176897028735264, guid: 693504337c997df47a6d0e0e0c2641c5, type: 3}
       propertyPath: m_text
-      value: <sprite name="1" tint=1><sprite name="2" tint=1><sprite name="3" tint=1><sprite
-        name="4" tint=1>
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 6959176897028735264, guid: 693504337c997df47a6d0e0e0c2641c5, type: 3}
       propertyPath: m_spriteAsset
       value: 
       objectReference: {fileID: 11400000, guid: dea4f5eb4628a0848a20b97617e23088, type: 2}
+    - target: {fileID: 7215143610526774160, guid: 693504337c997df47a6d0e0e0c2641c5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8980145095062994512, guid: 693504337c997df47a6d0e0e0c2641c5, type: 3}
       propertyPath: m_margin.x
       value: -142.21802
@@ -42503,7 +42506,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1074806175}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
